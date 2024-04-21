@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5638491.css",
-    "main.js": "/static/js/main.ad062971.js",
+    "main.css": "/static/css/main.8e3cdd3c.css",
+    "main.js": "/static/js/main.f13817fe.js",
     "static/media/MRlogo.PNG": "/static/media/MRlogo.18d7ce2622b1028ccab9.PNG",
     "index.html": "/index.html",
-    "main.a5638491.css.map": "/static/css/main.a5638491.css.map",
-    "main.ad062971.js.map": "/static/js/main.ad062971.js.map"
+    "main.8e3cdd3c.css.map": "/static/css/main.8e3cdd3c.css.map",
+    "main.f13817fe.js.map": "/static/js/main.f13817fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5638491.css",
-    "static/js/main.ad062971.js"
+    "static/css/main.8e3cdd3c.css",
+    "static/js/main.f13817fe.js"
   ]
 }
